@@ -1,0 +1,2 @@
+não faço a menor idéia, a questao foi um pouquinho confusa e o fato da distribuição dos alunos ter sido exposta em um linq de fora parte dificultou mais ainda a resolução da mesma, porém acho
+todas as linhas da imagem 2 tem 4+2 alunos de M e P isso tanto horizontal quanto vertical então na linhas em que o aluno que trocou esta elas ficam com 3+3 de cada disciplina ! ele deve ter achado o aluno que trocou assim só não consegui ainda saber de onde veio o aluno de P e pra onde foi o de M
