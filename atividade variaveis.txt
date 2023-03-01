@@ -1,0 +1,12 @@
+identificadores:
+caracteres: Nome
+logico: CPF
+logico: RG
+real: Altura
+caracteres: Endereço
+
+var nome = "Jose Almeida da Silva"
+var cpf = 12345678900
+var rg = 9517530
+var altura = 1.78
+var endereco = "Rua A, 380 - Centro - Recife/PE"
