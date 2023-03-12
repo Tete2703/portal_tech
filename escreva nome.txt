@@ -1,0 +1,11 @@
+escreva nome:
+escreva endereço:
+escreva cidade:
+escreva CPF:
+Escreva RG:
+
+leia: nome
+leia: endereço
+leia: cidade
+leia: cpf
+leia:RG
